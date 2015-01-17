@@ -1,2 +1,2 @@
 # TestRepo
-Testrepo for the R class
+Testrepo for the R class on Coursera
